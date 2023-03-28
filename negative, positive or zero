@@ -2,7 +2,7 @@
 
 int main() {
     int num;
-    printf("PRAISON SAM ASIRVATHAM C:");
+    printf("PSIVA SABARI RAJAN P:");
     printf("Input number: ");
     scanf("%d", &num);
 
